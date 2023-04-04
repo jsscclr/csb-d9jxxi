@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jsscclr.github.io/csb-d9jxxi/static/css/main.2027becc.chunk.css",
+    "main.js": "https://jsscclr.github.io/csb-d9jxxi/static/js/main.80e23209.chunk.js",
+    "main.js.map": "https://jsscclr.github.io/csb-d9jxxi/static/js/main.80e23209.chunk.js.map",
+    "runtime-main.js": "https://jsscclr.github.io/csb-d9jxxi/static/js/runtime-main.c8567ce0.js",
+    "runtime-main.js.map": "https://jsscclr.github.io/csb-d9jxxi/static/js/runtime-main.c8567ce0.js.map",
+    "static/js/2.222bf727.chunk.js": "https://jsscclr.github.io/csb-d9jxxi/static/js/2.222bf727.chunk.js",
+    "static/js/2.222bf727.chunk.js.map": "https://jsscclr.github.io/csb-d9jxxi/static/js/2.222bf727.chunk.js.map",
+    "index.html": "https://jsscclr.github.io/csb-d9jxxi/index.html",
+    "static/css/main.2027becc.chunk.css.map": "https://jsscclr.github.io/csb-d9jxxi/static/css/main.2027becc.chunk.css.map",
+    "static/js/2.222bf727.chunk.js.LICENSE.txt": "https://jsscclr.github.io/csb-d9jxxi/static/js/2.222bf727.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8567ce0.js",
+    "static/js/2.222bf727.chunk.js",
+    "static/css/main.2027becc.chunk.css",
+    "static/js/main.80e23209.chunk.js"
+  ]
+}
